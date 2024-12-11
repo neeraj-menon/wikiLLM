@@ -1,4 +1,4 @@
-# Google Gemini
+# Gemini
 
 ## Overview
 Gemini is Google's most capable AI model family, featuring multimodal capabilities and advanced reasoning. It comes in three sizes: Ultra, Pro, and Nano, each optimized for different use cases.
