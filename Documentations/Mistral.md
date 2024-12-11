@@ -31,6 +31,9 @@ Mistral AI is a French artificial intelligence company founded in 2023 by former
 | Mistral-Large-Instruct-2411 | - 32768 vocabulary size\n- Supports v7 tokenizer\n- Supports function calling |
 | Pixtral-Large-Instruct-2411 | - 32768 vocabulary size\n- Supports v7 tokenizer\n- Supports function calling |
 
+---
+---
+
 ## Mistral Model Sizes
 
 *Note:*
@@ -52,6 +55,9 @@ Mistral AI is a French artificial intelligence company founded in 2023 by former
 |Ministral-8B-2410|8B|8B|24||
 |Mistral-Large-Instruct-2411|123B|123B|250||
 |Pixtral-Large-Instruct-2411|124B|124B|250||
+
+---
+---
 
 
 ## Pricing

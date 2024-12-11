@@ -24,11 +24,11 @@ Gemini is Google's most capable AI model family, featuring multimodal capabiliti
 | Feature | Description |
 |---|---|
 | Rate Limits | 2,000 RPM (requests per minute) <br> 4 million TPM (tokens per minute) |
-| Prompts Up to 128k tokens | - Input Pricing: $0.0375 / 1 million tokens <br> - Output Pricing: $0.15 / 1 million tokens <br> - Context Caching: $0.01 / 1 million tokens |  |
-| Prompts longer than 128k | - Input Pricing: $0.15 / 1 million tokens <br> - Output Pricing: $0.60 / 1 million tokens <br> - Context Caching: $0.0375 / 1 million tokens | 
-| Context caching (storage) | $1.00 / 1 million tokens per hour |
+| Prompts Up to 128k tokens | - Input Pricing: \$0.0375 / 1 million tokens <br> - Output Pricing: \$0.15 / 1 million tokens <br> - Context Caching: \$0.01 / 1 million tokens |  |
+| Prompts longer than 128k | - Input Pricing: \$0.15 / 1 million tokens <br> - Output Pricing: \$0.60 / 1 million tokens <br> - Context Caching: \$0.0375 / 1 million tokens | 
+| Context caching (storage) | \$1.00 / 1 million tokens per hour |
 | Tuning price | Input/output prices are the same for tuned models. Tuning service is free of charge. |
-| Grounding with Google Search | $35 / 1K grounding requests (for up to 5K requests per day). |
+| Grounding with Google Search | \$35 / 1K grounding requests (for up to 5K requests per day). |
 | Used to improve our products | No |
 ---
 
@@ -51,11 +51,11 @@ Gemini is Google's most capable AI model family, featuring multimodal capabiliti
 | Feature | Description |
 |---|---|
 | Rate Limits | 4,000 RPM (requests per minute) <br> 4 million TPM (tokens per minute) |
-| Prompts Up to 128k tokens| - Input Pricing: $0.0375 / 1 million tokens <br> - Output Pricing: $0.15 / 1 million tokens <br> - Context Caching: $0.01 / 1 million tokens | 
-| Prompts longer than 128k | - Input Pricing: $0.15 / 1 million tokens <br> - Output Pricing: $0.60 / 1 million tokens <br> - Context Caching: $0.0375 / 1 million tokens | 
-| Context caching (storage) | $1.00 / 1 million tokens per hour |
+| Prompts Up to 128k tokens| - Input Pricing: \$0.0375 / 1 million tokens <br> - Output Pricing: \$0.15 / 1 million tokens <br> - Context Caching: \$0.01 / 1 million tokens | 
+| Prompts longer than 128k | - Input Pricing: \$0.15 / 1 million tokens <br> - Output Pricing: \$0.60 / 1 million tokens <br> - Context Caching: \$0.0375 / 1 million tokens | 
+| Context caching (storage) | \$1.00 / 1 million tokens per hour |
 | Tuning price | Input/output prices are the same for tuned models. Tuning service is free of charge. |
-| Grounding with Google Search | $35 / 1K grounding requests (for up to 5K requests per day). |
+| Grounding with Google Search | \$35 / 1K grounding requests (for up to 5K requests per day). |
 | Used to improve our products | No |
 ---
 
@@ -79,11 +79,11 @@ Gemini is Google's most capable AI model family, featuring multimodal capabiliti
 | Feature | Description |
 |---|---|
 | Rate Limits | 1,000 RPM (requests per minute) <br> 4 million TPM (tokens per minute) |
-| Prompts Up to 128k tokens| - Input Pricing: $1.25 / 1 million tokens <br> - Output Pricing: $5.00 / 1 million tokens <br> - Context Caching: $0.3125 / 1 million tokens | 
-| Prompts longer than 128k | - Input Pricing: $2.50 / 1 million tokens <br> - Output Pricing: $10.00 / 1 million tokens <br> - Context Caching: $0.625 / 1 million tokens | 
-| Context caching (storage) | $4.50 / 1 million tokens per hour |
+| Prompts Up to 128k tokens| - Input Pricing: \$1.25 / 1 million tokens <br> - Output Pricing: \$5.00 / 1 million tokens <br> - Context Caching: \$0.3125 / 1 million tokens | 
+| Prompts longer than 128k | - Input Pricing: \$2.50 / 1 million tokens <br> - Output Pricing: \$10.00 / 1 million tokens <br> - Context Caching: \$0.625 / 1 million tokens | 
+| Context caching (storage) | \$4.50 / 1 million tokens per hour |
 | Tuning price | Not available |
-| Grounding with Google Search | $35 / 1K grounding requests (for up to 5K requests per day). |
+| Grounding with Google Search | \$35 / 1K grounding requests (for up to 5K requests per day). |
 | Used to improve our products | No |
 ---
 
@@ -107,8 +107,8 @@ Gemini is Google's most capable AI model family, featuring multimodal capabiliti
 | Feature | Description |
 |---|---|
 | Rate Limits | 360 RPM (requests per minute) <br> 120,000 TPM (tokens per minute) <br> 30,000 RPD (tokens per day)|
-| Input Pricing| $0.50 / 1 million tokens | 
-| Output Pricing | $1.50 / 1 million tokens | 
+| Input Pricing| \$0.50 / 1 million tokens | 
+| Output Pricing | \$1.50 / 1 million tokens | 
 | Context caching (storage) | Not available |
 | Tuning price | Not available |
 | Grounding with Google Search | Not available |
